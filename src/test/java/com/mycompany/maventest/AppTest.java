@@ -20,6 +20,6 @@ public class AppTest
     @Test
     public void testApp()
     {
-        System.out.println("done");
+        Assert.assertTrue(false);
     }
 }
